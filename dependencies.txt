@@ -19,4 +19,4 @@ com.unity.collab-proxy@1.2.16
 com.unity.ugui@1.0.0
 com.unity.ide.vscode@1.2.1
 com.unity.connect.share@2.0.3
-Music Platformer@0.2
+Music Platformer@0.3

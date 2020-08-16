@@ -1,7 +1,7 @@
 {
 "companyName": "Music Bird L.A.",
 "productName": "Music Platformer",
-"productVersion": "0.2",
+"productVersion": "0.3",
 "dataUrl": "MBFirstGame0.2.data.unityweb",
 "wasmCodeUrl": "MBFirstGame0.2.wasm.code.unityweb",
 "wasmFrameworkUrl": "MBFirstGame0.2.wasm.framework.unityweb",
